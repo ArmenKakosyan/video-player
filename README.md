@@ -10,8 +10,8 @@
 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
-cd <project-directory>
+git clone <repository-url>
+cd <video-player>
 ```
 
 2. Install Dependencies
