@@ -1,0 +1,10 @@
+export const ASPECT_RATIO = 9 / 16;
+export const BOTTOM = 200;
+export const BOX_PADDING_X = 20;
+export const BOX_BORDER_RADIUS = 16;
+export const BOX_HEIGHT = 50;
+export const FONT = '30px Arial';
+export const BOX_COLOR = '#FFF';
+export const TEXT_COLOR = '#000';
+export const TEXT_ALIGN = 'center';
+export const TEXT_BASELINE = 'middle';
